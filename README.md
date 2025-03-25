@@ -1,2 +1,3 @@
 # pdf-ocr-extractor
 从公文pdf中读取关键数据的小脚本
+需要安装好pytesseract和ollama，默认调用deepseek-14b去处理文本
